@@ -45,6 +45,7 @@ body {
 button {
   font-size: 2rem;
   padding: 5px;
+  margin-bottom: 25px;
 }
 
 .dice-label {
